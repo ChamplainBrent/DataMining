@@ -1,0 +1,7 @@
+pip install numpy pandas psycopg2 scikit-learn
+-------
+to import:
+import numpy
+import pandas
+import psycopg2
+import scikit-learn
