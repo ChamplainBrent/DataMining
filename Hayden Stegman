@@ -1,8 +1,1 @@
-Code Here
-Code Here
-Code Here
-Code Here
-Code Here
-Code Here
-Code Here
-Code Here
+pip install numpy pandas psycopg2 scikitlearn
