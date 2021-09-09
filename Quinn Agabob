@@ -1,1 +1,5 @@
-pip install numpy pandas psycopg2 sciktlearn
+  
+import Numpy - to install python3 -m pip install Numpy
+import Pandas - to install python3 -m pip install Pandas
+import Psycopg2 - to install python -m pip install psycopg2
+import Scikitlearn - to install python -m pip install scikit-learn
